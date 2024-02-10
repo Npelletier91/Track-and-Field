@@ -2,7 +2,8 @@
 
 A recreation of the classic arcade game Track and Field, originally released in 1983. This project, developed from scratch, marks my inaugural journey in game development using Unity.
 
-<img src ="https://github.com/Npelletier91/Track-And-Field/assets/129113700/d13ea3ab-4d3c-4060-ba67-18a39135f012" width="400" height ="250">
+<img src ="https://github.com/Npelletier91/Track-and-Field/assets/129113700/c98129a5-3bc7-42d4-b8e3-3208de26a19d" width="400" height ="250">
+
 
 ## Overview
 
